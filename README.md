@@ -1,5 +1,4 @@
 ### Hi 我是 Cowboy Bebop 👋
- <img src="https://avatars.githubusercontent.com/u/30693884?v=4" width="25px" />
  
 <br />
 
