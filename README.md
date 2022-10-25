@@ -6,6 +6,10 @@
 <img src="https://swg.notion.pet/s/371fb7ad63574d0b001c8f996a76b112" width="30px"></code>
 <img src="https://swg.notion.pet/s/80516fb663574df40029aeed2190c38a" width="30px"></code>
 <br />
+#### 动态日历
+<img src="https://swg.notion.pet/s/6842667962f70a9d0de545882501a7da" width="40px"></code>
+#### 手办日历
+<img src="https://swg.notion.pet/s/6d85a2b962cff9b110796b3c2db7a806" width="40px"></code>
 
 #### 卡片胶囊倒计时
 <img src="https://swg.notion.pet/s/bg-76fd7bc163574e290025da68708cd056" style="min-width:100px;width:750px;min-height:100px;height:300px">
