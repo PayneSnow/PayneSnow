@@ -10,7 +10,7 @@
 <img src="https://swg.notion.pet/s/6d85a2b962cff9b110796b3c2db7a806" width="40px" />
  
 #### 工具合辑
-<img src="https://swg.notion.pet/s/28ad1a7463575250002051f0769f5e0e" width="25px" ></code>  Alfred、Agenda、Notion、FlowUs、Tana、SideNote
+<img src="https://swg.notion.pet/s/28ad1a7463575250002051f0769f5e0e" width="25px" ></code>  Alfred/Raycast 效率启动工具、Agenda轻量级日程管理、SideNote 便签、Notion/FlowUs 在线协作文档、Roam Research 笔记软件、Downie4 视频下载工具、
 
 #### 卡片胶囊倒计时
 <img src="https://swg.notion.pet/s/bg-76fd7bc163574e290025da68708cd056" style="min-width:100px;width:750px;min-height:100px;height:300px">
