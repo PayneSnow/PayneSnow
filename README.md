@@ -11,7 +11,7 @@
 #### 工具合辑
 <img src="https://swg.notion.pet/s/28ad1a7463575250002051f0769f5e0e" width="30px" ></code> Alfred/Raycast 效率启动工具、TimePage 日历应用、Agenda轻量级日程管理、SideNote 便签、Roam Research 笔记软件、Notion/FlowUs 在线协作文档、Downie4 视频下载工具、Eagle 图片管理.
 #### 想法 💡
-<img src="https://swg.notion.pet/s/bf0fecc563578f5200281f52221572e1" width="30px"
+<img src="https://swg.notion.pet/s/bf0fecc563578f5200281f52221572e1" width="30px" /> 如果有一个能随时记录大脑中不断涌出思绪的工具就好了！
 
 #### 影音娱乐
 - <img src="https://swg.notion.pet/s/ab3f0baf63578e4c002c164c5cb54325" width="30px" /> 梶浦由记
