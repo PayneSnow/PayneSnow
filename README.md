@@ -1,12 +1,6 @@
 ### Hi 我是 Cowboy Bebop 👋
  
 <br />
-<img src="https://swg.notion.pet/s/6d85a2b962cffa001079758f05a9d0cd" style="min-width:100px;width:320px;min-height:100px;height:320px">
-<img src="https://swg.notion.pet/s/eda7dd5063574cef002a9da130eb9b26" style="min-width:100px;width:320px;min-height:100px;height:320px">
-<img src="https://swg.notion.pet/s/8740f5ad635791f60024da463d28e965" style="min-width:100px;width:320px;min-height:100px;height:320px">
-<img src="https://swg.notion.pet/s/80516fb663574df40029aeed2190c38a" style="min-width:100px;width:320px;min-height:100px;height:320px">
-
-
 <img src="https://swg.notion.pet/s/6d85a2b962cffa001079758f05a9d0cd" width="30px" /> <img src="https://swg.notion.pet/s/eda7dd5063574cef002a9da130eb9b26" width="30px" /> <img src="https://swg.notion.pet/s/8740f5ad635791f60024da463d28e965" width="30px" /> <img src="https://swg.notion.pet/s/80516fb663574df40029aeed2190c38a" width="30px" />
 
  
