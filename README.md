@@ -24,3 +24,5 @@
 #### 基础时间进度条·年进度
 <img src="https://swg.notion.pet/s/bg-ac74c002635750890021d86953fabfd9" style="min-width:100px;width:750px;min-height:100px;height:300px">
 
+### 基础小组件
+<iframe src="https://cn.widgetstore.net/view/index.html?q=ca780ad562f6ffad10f5555672c2bd74.9c6f30ad635ab2f30025bfa50041d27e"  style="width: 100%; height: 300px"></iframe>
